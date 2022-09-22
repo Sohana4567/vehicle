@@ -1,0 +1,11 @@
+
+
+    {
+        "vehicles":[
+            {"id":1,"VEHICLE TYPE":"Car/Jeep/Van","VEHICLE NUMBER":"TN24AQ4644","DATE/TIME":"09/09/2022,16:43:48","TOLL NAME":"Chengalpattu","TARIFF":60 },
+            {"id":2,"VEHICLE TYPE":"Car/Jeep/Van","VEHICLE NUMBER":"TN19QQ1234","DATE/TIME":"09/09/2022,15:30:34","TOLL NAME":"Kappalur","TARIFF":75 },
+            {"id":3,"VEHICLE TYPE":"Heavy Vehicle","VEHICLE NUMBER":"TN24AA1234","DATE/TIME":"09/09/2022,12:12:34","TOLL NAME":"Kappalur","TARIFF":400 }
+
+        ]
+
+    }
